@@ -1,1 +1,2 @@
-longtr28
+Tristan Long
+longtr@oregonstate.edu
